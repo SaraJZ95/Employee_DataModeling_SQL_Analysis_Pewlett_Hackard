@@ -1,0 +1,19 @@
+SQL Database Project
+Tables are saved in data folder.
+In Employee SQL table:  1. Modeling folder includes sketch of Entity Relationship Diagram of the tables
+                        2. SQL folder includes answer of questions and table schemata.
+
+This project involves developing a structured SQL database to manage and analyze employee and departmental data efficiently. The schema design includes tables such as `Departments`, 
+`Dept_Emp`, `Dept_Manager`, `Employees`, `Salaries`, and `Titles`, each serving a specific function in organizing the relationships between employees, departments, and their respective
+roles and salaries.
+
+Key highlights of the project include:
+
+1. **Table Design and Relationships:**
+
+2. **Key Concepts:**
+   - **Primary Keys (PK):** Ensures that each record within a table is unique.
+   - **Foreign Keys (FK):** Establishes relationships between tables, ensuring data integrity by linking records in different tables.
+   - **Composite Keys:** Used in `Dept_Emp` and `Dept_Manager` tables to uniquely identify records through a combination of two or more columns.
+
+This project demonstrates the application of SQL best practices in designing a relational database schema to support robust data management in a corporate environment.
